@@ -9,6 +9,7 @@
 | [lesson_1](https://github.com/Resolushh/Development-of-software-modules/tree/lesson_1) | Backend и контракт сервиса | Разбор сценариев Steam, обработка ошибок и проверка окружения |
 | [lesson_2](https://github.com/Resolushh/Development-of-software-modules/tree/lesson_2) | Cafe Report | Чтение CSV, расчёт выручки, среднего чека и отчёта по официантам |
 | [lesson_3](https://github.com/Resolushh/Development-of-software-modules/tree/lesson_3) | Text Kit | Модули обработки текста, дат, статистики и валидации данных |
+| [leeson_4](https://github.com/Resolushh/Development-of-software-modules/tree/leeson_4) | Младший разработчик: первая неделя | Практикум по модулям Go и сигнатурам функций |
 
 ## Просмотр задания
 
